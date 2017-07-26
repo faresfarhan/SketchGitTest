@@ -65,14 +65,14 @@
                   "UID": 21
                 },
                 {
-                  "UID": 25
+                  "UID": 22
                 }
               ]
             },
             "NSParagraphStyle",
             "MSAttributedStringFontAttribute",
-            "NSColor",
             "NSKern",
+            "NSColor",
             {
               "$class": {
                 "UID": 12
@@ -155,13 +155,14 @@
               ],
               "$classname": "NSFontDescriptor"
             },
+            -0.44999998807907104,
             {
               "$class": {
-                "UID": 24
+                "UID": 25
               },
               "NSColorSpace": 1,
               "NSCustomColorSpace": {
-                "UID": 22
+                "UID": 23
               },
               "NSRGB": {
                 "data": "0 0 0 0\u0000",
@@ -170,7 +171,7 @@
             },
             {
               "$class": {
-                "UID": 23
+                "UID": 24
               },
               "NSID": 1
             },
@@ -188,7 +189,6 @@
               ],
               "$classname": "NSColor"
             },
-            -0.44999998807907104,
             {
               "$classes": [
                 "NSDictionary",
@@ -222,10 +222,10 @@
                   "UID": 13
                 },
                 {
-                  "UID": 21
+                  "UID": 28
                 },
                 {
-                  "UID": 28
+                  "UID": 22
                 }
               ]
             },
